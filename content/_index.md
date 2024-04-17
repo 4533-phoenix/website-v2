@@ -30,7 +30,7 @@ paige:
     }
 ---
 
-{{% paige/image src="/pit-crew.jpg" alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" width="100%" %}}
+{{% paige/image src="./pit-crew.jpg" alt="Landscape" breakpoints=true class="object-fit-cover rounded-4" fetchpriority="high" height="20rem" loading="eager" process="webp" width="100%" %}}
 
 <hr/>
 
