@@ -1,0 +1,40 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'FRC Team 4533'
+
+[[module.imports]]
+path = 'github.com/willfaught/paige'
+
+[paige.menu]
+style = 'links'
+
+[paige.search]
+hide_page = false
+
+[languages.en]
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "home"
+name = "Home"
+url = "/"
+weight = 10
+
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About us"
+url = "/about"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "github"
+name = "Github"
+url = "//github.com/4533-phoenix"
+weight = 30
+
+[languages.en.menu.main.params.paige]
+divider_below = true
+disabled = true
+
+[markup.goldmark.renderer]
+unsafe = true
