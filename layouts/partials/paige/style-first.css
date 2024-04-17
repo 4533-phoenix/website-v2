@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'Origin Tech';
-	src: url('/assets/fonts/origin-tech.ttf');
+	src: url('./origin-tech.ttf');
 }
 
 #paige-authors,
