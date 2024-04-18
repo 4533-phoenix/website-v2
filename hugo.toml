@@ -46,7 +46,7 @@ weight = 50
 
 [languages.en.menu.main.params.paige]
 divider_below = true
-disabled = true
+disabled = false
 
 [markup.goldmark.renderer]
 unsafe = true
