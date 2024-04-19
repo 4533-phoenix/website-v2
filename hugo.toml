@@ -56,3 +56,8 @@ disabled = false
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[markup.tableofcontents]
+endlevel = 6
+ordered = true
+startlevel = 2
