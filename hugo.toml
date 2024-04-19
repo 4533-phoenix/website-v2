@@ -15,7 +15,7 @@ site_description = "FRC Team 4533 - Mount Pleasant, SC"
 style = 'links'
 
 [paige.search]
-hide_page = false
+hide_page = true
 
 [languages.en]
 weight = 10
