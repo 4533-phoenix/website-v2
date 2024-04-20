@@ -1,3 +1,0 @@
-+++
-layout = "paige/search"
-+++
