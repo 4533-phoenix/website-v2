@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'Origin Tech';
-	src: url('./fonts/origin-tech.ttf') format('truetype'),
-		 url('./fonts/origin-tech.otf') format('opentype'),
-		 url('./fonts/origin-tech.woff') format('woff'),
-		 url('./fonts/origin-tech.woff2') format('woff2');
+	src: url('./fonts/origin-tech/origin-tech.ttf') format('truetype'),
+		 url('./fonts/origin-tech/origin-tech.otf') format('opentype'),
+		 url('./fonts/origin-tech/origin-tech.woff') format('woff'),
+		 url('./fonts/origin-tech/origin-tech.woff2') format('woff2');
 }
 
 #paige-authors,
