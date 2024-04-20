@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2022 robot for Rapid React"
-title: "(2022) GlaDOS"
+description: "4533 Phoenix's GlaDOS"
+title: "(2022) Rapid React"
 ---
 
 ## Overview

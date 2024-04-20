@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2023 robot for Charged Up"
-title: "(2023) Fawkes"
+description: "4533 Phoenix's Fawkes"
+title: "(2023) Charged Up"
 ---
 
 ## Overview

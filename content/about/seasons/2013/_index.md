@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2013 robot for Ultimate Ascent"
-title: "(2013) Fris-bot"
+description: "4533 Phoenix's Fris-bot"
+title: "(2013) Ultimate Ascent"
 ---
 
 ## Overview

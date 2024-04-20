@@ -1,6 +1,13 @@
 ---
 description: "About 4533 Phoenix"
 title: "About"
+paige:
+  style: |
+    #paige-collections,
+    #paige-sections,
+    #paige-pages {
+        display: none;
+    }
 ---
 
 ## Who are we?
@@ -32,7 +39,7 @@ legacy in the coming years!
 
 ## Extra Information
 
-- See a list of our robots [here](./robots).
+- See a list of our seasons [here](./seasons).
 - See a list of comments from alumni and mentors [here](./comments).
 - You can find our github organization [here](//github.com/4533-phoenix).
 

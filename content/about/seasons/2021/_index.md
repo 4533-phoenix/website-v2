@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2021 robot for Game Changer"
-title: "(2021) Qi'ra"
+description: "4533 Phoenix's Qi'ra"
+title: "(2021) Game Changer"
 ---
 
 ## Overview

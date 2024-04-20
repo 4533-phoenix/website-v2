@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2019 robot for Deep Space"
-title: "(2019) Atlas"
+description: "4533 Phoenix's Atlas"
+title: "(2019) Deep Space"
 ---
 
 ## Overview

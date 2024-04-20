@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2016 robot for Stronghold"
-title: "(2016) The Chief"
+description: "4533 Phoenix's The Chief"
+title: "(2016) Stronghold"
 ---
 
 ## Overview

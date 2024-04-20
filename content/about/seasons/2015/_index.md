@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2015 robot for Recycle Rush"
-title: "(2015) BAE"
+description: "4533 Phoenix's BAE"
+title: "(2015) Recycle Rush"
 ---
 
 ## Overview

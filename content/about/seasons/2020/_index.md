@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2020 robot for Infinite Recharge"
-title: "(2020) Sandcrawler"
+description: "4533 Phoenix's Sandcrawler"
+title: "(2020) Infinite Recharge"
 ---
 
 ## Overview

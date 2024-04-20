@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2014 robot for Aerial Assist"
-title: "(2014) Yoga-bot"
+description: "4533 Phoenix's Yoga-bot"
+title: "(2014) Aerial Assist"
 ---
 
 ## Overview

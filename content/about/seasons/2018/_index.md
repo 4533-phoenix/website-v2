@@ -1,6 +1,6 @@
 ---
-description: "4533 Phoenix's 2018 robot for Power Up!"
-title: "(2018) Miss Vicki"
+description: "4533 Phoenix's Miss Vicki"
+title: "(2018) Power Up!"
 ---
 
 ## Overview
