@@ -23,3 +23,7 @@ for years to come.” {{< /paige/quote >}}
 {{< paige/quote cite="Alex Reed, Class of 2024" >}} "I've learned so much through 
 robotics as a student, as a leader, and as a person. Without it, I wouldn't be the 
 person I am today." {{< /paige/quote >}}
+
+{{< paige/quote cite="John Cutter" >}} "Proud of my own boys going through this
+program and now I get to give back as a mentor. Just keep adding more Autonomous!" 
+{{< /paige/quote >}}

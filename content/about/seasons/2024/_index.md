@@ -20,6 +20,7 @@ the alliance captain of alliance 7.
 - [Scouting App Code](//github.com/4533-phoenix/flutter-scouting-v4)
 - [Simulator](//github.com/4533-phoenix/Simulator)
 - [Vision](//github.com/4533-phoenix/crescendo-vision)
+- [Engineering Notebook](//docs.google.com/presentation/d/1k68ZtbEqFZL2DokGarpRuTBsSXEmUB7j5P-1TP0bfpc/view)
 
 ## Reveal Video
 

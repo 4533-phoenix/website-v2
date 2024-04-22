@@ -14,6 +14,7 @@ paige:
         font-family: 'Origin Tech';
         font-size: 5rem;
         text-transform: uppercase;
+        color: #a8cce2;
     }
     #paige-description {
         font-size: 16pt;
