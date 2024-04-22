@@ -19,3 +19,7 @@ allow you to interact with others and help you in the future.”
 much about Leadership, Friendship, and Engineering. The people on the team
 become your family and you create connections like no other that you will have
 for years to come.” {{< /paige/quote >}}
+
+{{< paige/quote cite="Alex Reed, Class of 2024" >}} "I've learned so much through 
+robotics as a student, as a leader, and as a person. Without it, I wouldn't be the 
+person I am today." {{< /paige/quote >}}
