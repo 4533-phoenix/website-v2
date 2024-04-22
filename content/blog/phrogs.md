@@ -14,5 +14,5 @@ Morgan likes Phrogs because they are very cool.
 
 # Alex 
 
-{{< paige/quote cite="Alex" >}} "GET IT FROGS + PHOENIX = PROGS" {{<
+{{< paige/quote cite="Alex" >}} "GET IT FROGS + PHOENIX = PHROGS" {{<
 /paige/quote >}}
