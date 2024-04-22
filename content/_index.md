@@ -61,8 +61,5 @@ merchandise, and competition pit. We welcome and appreciate support of all
 kinds, including monetary donations and in-kind support. All donations to our
 organization are tax-deductible. [Sponsor Us](./contact)
 
-![random image](./processed_14.jpg)
-
-- Boeing
-- Bosch
-- ECCAS
+{{< paige/gallery class="rounded-3" images="sponsor-*.svg" type="grid"  >}}
+{{< /paige/gallery >}}
