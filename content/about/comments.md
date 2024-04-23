@@ -1,21 +1,6 @@
 +++
 description = "Comments on 4533 Phoenix"
 title = "Comments"
-[paige]
-style = """
-#paige-title {
-    font-family: 'Origin Tech';
-    font-size: 5rem;
-    text-transform: uppercase;
-    color: #a8cce2;
-}
-#paige-description {
-    font-size: 16pt;
-    font-weight: normal;
-    margin-top: -10pt;
-    margin-bottom: 2rem;
-}
-"""
 
 [paige.search]
 hide_page = true
