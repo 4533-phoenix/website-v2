@@ -3,21 +3,6 @@ description = "About 4533 Phoenix"
 title = "About"
 [paige]
 style = """
-#paige-authors,
-#paige-breadcrumbs,
-#paige-credit,
-#paige-date,
-#paige-keywords,
-#paige-reading-time,
-#paige-series,
-#paige-toc,
-.paige-authors,
-.paige-date,
-.paige-date-header,
-.paige-keywords,
-.paige-reading-time,
-.paige-series,
-.paige-summary,
 #paige-collections,
 #paige-sections,
 #paige-pages {
