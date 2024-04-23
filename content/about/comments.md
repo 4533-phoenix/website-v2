@@ -1,7 +1,42 @@
----
-description: "Comments on 4533 Phoenix"
-title: "Comments"
----
++++
+description = "Comments on 4533 Phoenix"
+title = "Comments"
+[paige]
+style = """
+#paige-authors,
+#paige-breadcrumbs,
+#paige-credit,
+#paige-date,
+#paige-keywords,
+#paige-reading-time,
+#paige-series,
+#paige-toc,
+.paige-authors,
+.paige-date,
+.paige-date-header,
+.paige-keywords,
+.paige-reading-time,
+.paige-series,
+.paige-summary {
+    display: none;
+}
+#paige-title {
+    font-family: 'Origin Tech';
+    font-size: 5rem;
+    text-transform: uppercase;
+    color: #a8cce2;
+}
+#paige-description {
+    font-size: 16pt;
+    font-weight: normal;
+    margin-top: -10pt;
+    margin-bottom: 2rem;
+}
+"""
+
+[paige.search]
+hide_page = true
++++
 
 ## Comments
 

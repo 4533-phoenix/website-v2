@@ -56,3 +56,22 @@ unsafe = true
 endlevel = 6
 ordered = true
 startlevel = 2
+
+[taxonomies]
+author = "authors"
+tag = "tags"
+
+[authors.drake]
+default = false
+name = "Drake"
+url = "https://github.com/drakeerv"
+
+[authors.lincoln]
+default = false
+name = "Lincoln"
+url = "https://github.com/frc4533-lincoln"
+
+[authors.morgan]
+default = false
+name = "Morgan"
+url = "https://github.com/May-Hope13"
