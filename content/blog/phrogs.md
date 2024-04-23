@@ -1,10 +1,10 @@
----
-description: "4533 Phoenix's Phrogs Collection"
-title: "Phrogs"
-authors: ["Morgan", "Drake", "Alex"]
-date: "2024-04-22T22:06:44+0000"
-tags: ["phrogs", "random", "imagery"]
----
++++
+description = "4533 Phoenix's Phrogs Collection"
+title = "Phrogs"
+authors = ["morgan", "drake"]
+date = "2024-04-22T22:06:44+0000"
+tags = ["phrogs", "random", "imagery"]
++++
 
 # Phrogs are cool
 

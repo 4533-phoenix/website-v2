@@ -1,7 +1,7 @@
----
-description: "4533 Phoenix's The Chief"
-title: "(2016) Stronghold"
----
++++
+description = "4533 Phoenix's The Chief"
+title = "(2016) Stronghold"
++++
 
 ## Overview
 
