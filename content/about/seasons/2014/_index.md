@@ -8,3 +8,8 @@ title = "(2014) Aerial Assist"
 This season, we had to lift yoga balls and bring them across the field. This
 year, we went to the Palmetto Regional, as well as the South Florida Regional,
 where we were on the second alliance.
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}
