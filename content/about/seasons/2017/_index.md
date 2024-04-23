@@ -12,3 +12,8 @@ award, and the Knoxville Regional, where we captained the seventh alliance.
 ## Links
 
 - [Robot Code](//github.com/4533-phoenix/steamworks-robot)
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}

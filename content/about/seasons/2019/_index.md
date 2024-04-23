@@ -11,3 +11,8 @@ This year, we had only gone to the Rocket City Regional.
 ## Links
 
 - [Robot Code](//github.com/4533-phoenix/DeepSpaceRobot)
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}

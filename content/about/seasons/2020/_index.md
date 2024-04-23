@@ -16,3 +16,8 @@ shutting down the competition for the rest of the season.
 - [Robot Code](//github.com/4533-phoenix/infinite-recharge-robot)
 - [Dashboard](//github.com/4533-phoenix/infinite-recharge-dashboard)
 - [Vision](//github.com/4533-phoenix/infinite-recharge-vision)
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}

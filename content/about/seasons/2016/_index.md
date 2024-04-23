@@ -12,3 +12,8 @@ to the Palmetto Regional and the Knoxville Regional during this season.
 
 - [Robot Code](//github.com/4533-phoenix/stronghold-robot)
 - [Visison](//github.com/4533-phoenix/stronghold-vision)
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}

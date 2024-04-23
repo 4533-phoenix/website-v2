@@ -13,3 +13,8 @@ Regional, and captained the 3rd ranked alliance.
 ## Links
 
 - [Robot Code](//github.com/4533-phoenix/PowerUpRobot)
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}

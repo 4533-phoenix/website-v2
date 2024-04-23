@@ -13,3 +13,8 @@ the General Motors Industrial Desgin Award as well as the Saftey Award.
 
 - [Robot Code](//github.com/4533-phoenix/recycle-rush-robot)
 - [Visison](//github.com/4533-phoenix/recycle-rush-robot-vision)
+
+## Media
+
+{{< paige/gallery class="rounded-3" images="*.jpg" process="webp" type="grid"  >}}
+{{< /paige/gallery >}}
