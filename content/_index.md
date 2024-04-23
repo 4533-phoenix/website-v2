@@ -3,6 +3,7 @@ title = "Phoenix"
 description = "FRC Team 4533 - Mount Pleasant, SC"
 [paige]
 style = """
+#paige-toc,
 #paige-collections,
 #paige-sections,
 #paige-pages {
