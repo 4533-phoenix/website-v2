@@ -17,7 +17,10 @@ style = """
 .paige-keywords,
 .paige-reading-time,
 .paige-series,
-.paige-summary {
+.paige-summary,
+#paige-collections,
+#paige-sections,
+#paige-pages {
     display: none;
 }
 #paige-title {
