@@ -45,6 +45,12 @@ name = "Blog"
 url = "/blog"
 weight = 40
 
+[[languages.en.menu.main]]
+identifier = "seasons"
+name = "Seasons"
+url = "/seasons"
+weight = 50
+
 [languages.en.menu.main.params.paige]
 divider_below = true
 disabled = false
