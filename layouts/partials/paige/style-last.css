@@ -1,4 +1,4 @@
 body {
     background: var(--bs-body-bg);
-    background: linear-gradient(90deg, #64879b 0%, var(--bs-body-bg) 15%, var(--bs-body-bg) 85%, #64879b 100%);
+    background: linear-gradient(90deg, #324b55 0%, var(--bs-body-bg) 15%, var(--bs-body-bg) 85%, #324b55 100%);
 }
