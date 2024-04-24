@@ -1,4 +1,0 @@
-body {
-    background: var(--bs-body-bg);
-    background: radial-gradient(circle, var(--bs-body-bg) 85%, #324b55 100%);
-}
