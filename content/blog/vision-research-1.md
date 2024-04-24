@@ -3,7 +3,6 @@ title = 'Coral and libedgetpu (Vision Research Part 1)'
 authors = ['lincoln']
 tags = ['code', 'vision', 'tpu']
 date = 2024-04-22T21:40:15Z
-draft = true
 +++
 
 So I've been doing a lot of research and work on vision stuff.
