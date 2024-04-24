@@ -74,7 +74,7 @@ It performed great.
 I wrote thin bindings around TFLite and libedgetpu, wrapped up into one.
 It needs a little work before I'd really trust it, but it outperforms all our previous tests.
 
-Drake found [this model](), which I plugged into `edgetpu_compiler` to confirm it can run all operations on the TPU.
+Drake found [this model](https://drive.google.com/file/d/1SPsWfmfVcdSvBOJgvrviB1rTjDHqKx_o/view?usp=sharing), which I plugged into `edgetpu_compiler` to confirm it can run all operations on the TPU.
 Yep.
 
 I did a few not-so-scientific benchmarks:
