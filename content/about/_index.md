@@ -42,7 +42,7 @@ legacy in the coming years!
 
 ## Extra Information
 
-- See a list of our seasons [here](./seasons).
+- See a list of our seasons [here](../seasons).
 - See a list of comments from alumni and mentors [here](./comments).
 - You can find our github organization [here](//github.com/4533-phoenix).
 
