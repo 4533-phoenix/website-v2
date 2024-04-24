@@ -1,0 +1,3 @@
+.bg {
+    background: linear-gradient(to right, #a8cce2, var(--bs-body-bg), #a8cce2);
+}
