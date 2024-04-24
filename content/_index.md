@@ -42,6 +42,7 @@ officially for the first time in 2013. Beginning with the 2022-23 academic year,
 our team has rebranded as Phoenix. Throughout the year, our team's members learn
 and apply advanced skills in design, fabrication, programming, and other areas
 while creating robots that compete at a high level.
+[Learn more about FIRST Robotics Competition](./about)
 
 ## How do we compete?
 
