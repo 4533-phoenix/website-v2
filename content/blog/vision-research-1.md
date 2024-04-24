@@ -1,7 +1,8 @@
 +++
-title = 'Coral and libedgetpu (Vision Research Part 1)'
+title = 'Coral and libedgetpu'
+description = 'FRC Vision Research Part 1'
 authors = ['lincoln']
-tags = ['code', 'vision', 'tpu']
+tags = ['code', 'vision', 'tpu', 'edgetpu', 'frc']
 date = 2024-04-22T21:40:15Z
 +++
 
