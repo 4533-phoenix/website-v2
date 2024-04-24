@@ -55,9 +55,21 @@ is assigned to work primarily with one subteam, many will learn skills in two or
 more areas throughout their time with our team. You can read about each of our
 subteams below.
 
-| Subteam  | Description                                                                                                                                                                                                                               | Image                                                                                                             |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| Code     | The Coding team is responsible for programming all of our robot's functions. Members use several programming languages, including Java and Python, to create software that allows our robots to operate at an advanced level.             | {{% paige/image src="code.jpg" alt="Code Team Image" class="object-fit-cover rounded-4" process="webp" %}}        |
-| Build    | The Build team is responsible for the creation of individual parts and the assembly of our robot. Students learn and apply skills in construction, engineering, and mechanics.                                                            | {{% paige/image src="build.jpg" alt="Build Team Image" class="object-fit-cover rounded-4" process="webp" %}}      |
-| Imagery  | The imagery team is responsible for creating and developing our team's brand. Members design our team's merchandise, decorate our pit, and more.                                                                                          | {{% paige/image src="imagery.jpg" alt="Imagery Team Image" class="object-fit-cover rounded-4" process="webp" %}}  |
-| Business | The Business Team is the driving force behind our team's financial stability and operational excellence. It's strategic group focused on securing resources, fostering partnerships, and ensuring the smooth running of our organization. | Build team image                                                                                                  |
+### Code
+
+The Coding team is responsible for programming all of our robot's functions. Members use several programming languages, including Java and Python, to create software that allows our robots to operate at an advanced level.
+{{% paige/image src="code.jpg" alt="Code Team Image" class="object-fit-cover rounded-4" process="webp" %}}
+
+### Build
+
+The Build team is responsible for the creation of individual parts and the assembly of our robot. Students learn and apply skills in construction, engineering, and mechanics.
+{{% paige/image src="build.jpg" alt="Build Team Image" class="object-fit-cover rounded-4" process="webp" %}}
+
+### Imagery
+
+The imagery team is responsible for creating and developing our team's brand. Members design our team's merchandise, decorate our pit, and more.
+{{% paige/image src="imagery.jpg" alt="Imagery Team Image" class="object-fit-cover rounded-4" process="webp" %}}
+
+### Business
+
+The Business Team is the driving force behind our team's financial stability and operational excellence. It's strategic group focused on securing resources, fostering partnerships, and ensuring the smooth running of our organization.
