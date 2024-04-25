@@ -13,7 +13,7 @@
 {{ $style := .Get "style" }}
 {{ $title := .Get "title" }}
 {{ $side := .Get "side" }}
-{{ $split := .Get "split" }}
+{{ $split := .Get "split" | default 25 }}
 
 <div style="display: table; width: 100%; table-layout: fixed;">
     {{ if eq $side "right" }}
