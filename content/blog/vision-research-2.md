@@ -12,7 +12,6 @@ This is kind of a personal project, but it's related to vision.
 
 So I did more Coral stuff.
 
-So what did I actually do?
 I tried to reverse engineer and rewrite libedgetpu in Rust and actually learned quite a bit of possibly useful information,
 even if it feels like a waste of time in hindsight.
 
