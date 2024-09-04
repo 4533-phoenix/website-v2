@@ -3,13 +3,13 @@ title = 'Coral and libedgetpu'
 description = 'FRC Vision Research Part 1'
 authors = ['lincoln']
 tags = ['code', 'vision', 'tpu', 'edgetpu', 'frc']
-date = 2024-04-22T21:40:15Z
+date = '2024-04-22T21:40:15Z'
 +++
 
 So I've been doing a lot of research and work on vision stuff.
 This is going to be a multi-part series, because there's a LOT to cover.
 
-# Edge TPU
+## Edge TPU
 
 So what is an "edge TPU"?
 
@@ -41,7 +41,7 @@ But there's some hope!
 Cocoa, an independent developer writing *Elixir* bindings to TFLite, made a fork of libedgetpu.
 Their fork is well-maintained and offers shared libraries via Github releases, making my life much easier.
 
-# TFLite
+## TFLite
 
 Coral devices only work with TensorFlow Lite, Google's machine learning library for embedded devices.
 It's supposed to be minimal and stuff, but it's still written in C++.
@@ -62,7 +62,7 @@ make
 
 I then linked it into my custom code and it worked!
 
-# Putting it together
+## Putting it together
 
 I like Rust.
 It's a joy to write. It's a joy to run.
@@ -92,7 +92,7 @@ I tested with one camera.
 Assuming it scales linearly, two edge TPUs could handle four cameras at 30 fps, with a few extra frames of tolerance.
 With a camera on each side of the bot, running at 30 fps, we can do a lot of cool stuff.
 
-# Going forward
+## Going forward
 
 In the next part, I'll be discussing AprilTags: how others have detected them, how I've tried to detect them, and what I've found to work well and not-so-well.
 
