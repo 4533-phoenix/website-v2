@@ -33,3 +33,6 @@ person I am today." {{< /paige/quote >}}
 {{< paige/quote cite="John Cutter" >}} "Proud of my own boys going through this
 program and now I get to give back as a mentor. Just keep adding more Autonomous!" 
 {{< /paige/quote >}}
+
+{{< paige/quote cite="Ryan Sims" >}} "Robots :)" 
+{{< /paige/quote >}}
