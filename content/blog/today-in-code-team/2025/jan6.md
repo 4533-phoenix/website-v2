@@ -10,6 +10,7 @@ Drake helped everyone on robot code get WPILib 2025 installed, which took foreve
 In the meantime, the rookies learned kotlin which is what we are going to program for the robot.
 
 Here's Sean's Kotlin notes:
+
 ![Sean's Kotlin notes](/blog/today-in-code-team/2025/assets/jan6-sean-kotlin-notes.png)
 
 Chloe flashed a fresh image onto a Pi 5 for vision testing.
