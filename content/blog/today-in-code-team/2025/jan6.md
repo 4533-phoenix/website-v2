@@ -2,6 +2,7 @@
 title = 'Today in Code Team - January 6, 2025'
 date = 2025-01-07T01:35:05Z
 authors = ["lincoln", "drake", "sean", "eda", "chloe"]
+tags = ['frc', 'code', 'drive', 'vision', 'router']
 +++
 
 So we're going to do a blog post every (meeting) day this year, summarizing our accomplishments and mistakes.
@@ -25,4 +26,4 @@ Lincoln tried to fix the router with some very short-lived success and much pain
 
 ## Thing of the day
 
-![Drake suggesting is-even-ai](/blog/today-in-code-team/2025/assets/jan6-drake-npm.png)
+![Lincoln forgot the tags](/blog/today-in-code-team/2025/assets/jan6-forgot-the-tags.png)
