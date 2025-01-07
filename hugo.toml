@@ -75,3 +75,13 @@ url = "https://github.com/frc4533-lincoln"
 default = false
 name = "Morgan"
 url = "https://github.com/May-Hope13"
+
+[authors.chloe]
+default = false
+name = "Chloe"
+url = "https://github.com/chofuu"
+
+[authors.eda]
+default = false
+name = "Eda"
+url = "https://github.com/edasera35"
