@@ -21,3 +21,7 @@ We used OpenWRT last year, but it was kinda broken.
 We burned that down and did raw OpenBSD with PF instead this year.
 It worked great for a little while, but the school's been clamping down again.
 Lincoln tried to fix the router with some very short-lived success and much pain.
+
+## Thing of the day
+
+![Drake suggesting is-even-ai](/blog/today-in-code-team/2025/assets/jan6-drake-npm.png)
