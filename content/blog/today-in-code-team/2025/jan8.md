@@ -5,13 +5,11 @@ authors = ["lincoln", "drake", "sean", "eda", "chloe"]
 tags = ['frc', 'code', 'vision', 'kotlin', 'router']
 +++
 
-# Today in Code Team
-
 ## Overview
 
 Today was a mix of progress and challenges for the Code Team as we tackled key areas for the 2025 FRC robot. Here's the breakdown:
 
-### **Robot Code Setup**
+### Robot Code Setup
 
 Drake led the effort to get **WPILib 2025** installed for the team. While the installation process was frustratingly slow due to the school’s throttled WiFi, it eventually worked, and we transitioned to setting up the project. Here's the workflow:
 
@@ -44,7 +42,7 @@ Where we left today off:
 
 ![Where we left off](/blog/today-in-code-team/2025/assets/jan8-left-off.png)
 
-### **Vision System**
+### Vision System
 
 Chloe worked on vision-related tasks:
 
@@ -54,7 +52,7 @@ Chloe worked on vision-related tasks:
   - Resolved most camera configuration issues but faced a limitation with a USB camera supporting only MJPEG instead of RGB8.
 - Explored alternatives to school-mirrored Raspberry Pi OS repositories.
 
-### **Router Issues**
+### Router Issues
 
 Lincoln’s day revolved around fixing our router setup:
 
@@ -66,12 +64,12 @@ Lincoln’s day revolved around fixing our router setup:
 
 ## Key Learnings & To-Do List
 
-### **Takeaways:**
+### Takeaways:
 - WPILib 2025 and Kotlin integration is functional but requires adjustments for library API updates.
 - Vision builds are efficient, but hardware constraints with cameras need addressing.
 - Network bottlenecks demand better solutions—possibly alternative router setups.
 
-### **To-Do:**
+### To-Do:
 - Research updated APIs for 2025 vendor libraries.
 - Complete the Swerve Drive subsystem.
 - Upload code to GitHub.

@@ -5,8 +5,6 @@ authors = ["lincoln", "drake", "sean", "eda", "chloe"]
 tags = ['frc', 'code', 'drive', 'vision', 'router']
 +++
 
-# Today in Code Team
-
 ## Overview
 
 So we're going to do a blog post every (meeting) day this year, summarizing our accomplishments and mistakes.
