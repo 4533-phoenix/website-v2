@@ -41,6 +41,7 @@ Drake led the effort to get **WPILib 2025** installed for the team. While the in
    - A live server set up to allow real-time code viewing by teammates.
 
 Where we left today off:
+
 ![Where we left off](/blog/today-in-code-team/2025/assets/jan8-left-off.png)
 
 ### **Vision System**
