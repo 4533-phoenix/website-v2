@@ -5,6 +5,10 @@ authors = ["lincoln", "drake", "sean", "eda", "chloe"]
 tags = ['frc', 'code', 'drive', 'vision', 'router']
 +++
 
+# Today in Code Team
+
+## Overview
+
 So we're going to do a blog post every (meeting) day this year, summarizing our accomplishments and mistakes.
 
 Drake helped everyone on robot code get WPILib 2025 installed, which took forever over the school's WiFi connection.
