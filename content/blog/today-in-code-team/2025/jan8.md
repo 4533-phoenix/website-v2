@@ -44,9 +44,8 @@ Where we left today off:
 
 ### Vision System
 
-Chloe worked on vision-related tasks:
+Lincoln worked on vision-related tasks:
 
-- Flashed a fresh image on a **Raspberry Pi 5** for vision processing.
 - Experimented with **Chalkydri** vision software:
   - Successfully built on the Pi in just **2m 43s**.
   - Resolved most camera configuration issues but faced a limitation with a USB camera supporting only MJPEG instead of RGB8.
