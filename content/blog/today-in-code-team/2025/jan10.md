@@ -25,4 +25,4 @@ Lincoln helped Chloe get Docker Desktop installed, then she removed it and insta
 
 ## Thing of the day
 
-![Cable mismanagement](/blog/today-in-code-team/2025/assets/jan10-cable-mismanagement.jpg)
+![Cable mismanagement](/blog/today-in-code-team/2025/assets/jan10-cable-mismanagement.png)
