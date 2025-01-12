@@ -1,7 +1,7 @@
 +++
 title = 'Today in Code Team - January 6, 2025'
 date = 2025-01-07T01:35:05Z
-authors = ["lincoln", "drake", "sean", "eda", "chloe"]
+authors = ["lincoln", "drake", "sean", "eda", "chloe", "ethan"]
 tags = ['frc', 'code', 'drive', 'vision', 'router']
 +++
 
