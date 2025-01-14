@@ -10,7 +10,6 @@ path = 'github.com/willfaught/paige'
 
 [params.paige.site]
 disable_credit = true
-disable_title = true
 
 [paige.menu]
 style = 'links'

@@ -3,12 +3,6 @@ title = "Phoenix"
 description = "FRC Team 4533 - Mount Pleasant, SC"
 [paige]
 style = """
-#paige-toc,
-#paige-collections,
-#paige-sections,
-#paige-pages {
-    display: none;
-}
 #paige-page-title {
     font-family: 'Origin Tech';
     font-size: 5rem;
@@ -25,6 +19,10 @@ style = """
 
 [paige.search]
 hide_page = true
+
+[params.paige.page]
+disable_title = true
+disable_toc = true
 +++
 
 {{% paige/image src="splash.jpg" alt="Landscape" breakpoints=true
