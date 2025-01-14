@@ -9,11 +9,7 @@ copyright = "© Phoenix 2024"
 path = 'github.com/willfaught/paige'
 
 [params.paige.site]
-disable_title = false
-
-[params.paige]
-site_title = "4533 Phoenix"
-site_description = "FRC Team 4533 - Mount Pleasant, SC"
+disable_title = true
 
 [paige.menu]
 style = 'links'
