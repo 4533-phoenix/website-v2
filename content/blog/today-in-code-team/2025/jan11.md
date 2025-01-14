@@ -1,5 +1,6 @@
 +++
 title = 'Today in Code Team - January 11, 2025'
+description = 'Your semi-regularly updated blog from the code team.'
 date = 2025-01-11T00:00:00Z
 authors = ["lincoln", "drake", "sean", "chloe", "ethan"]
 tags = ['frc', 'code', 'drive', 'vision', 'router']
