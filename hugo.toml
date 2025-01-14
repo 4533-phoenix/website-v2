@@ -3,12 +3,13 @@ languageCode = 'en-us'
 title = 'FRC Team 4533'
 enablerobotstxt = true
 timezone = "America/New_York"
-copyright = "© Phoenix 2024"
+copyright = "© Phoenix 2025"
 
 [[module.imports]]
 path = 'github.com/willfaught/paige'
 
 [params.paige.site]
+disable_credit = true
 disable_title = true
 
 [paige.menu]
