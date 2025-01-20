@@ -26,4 +26,4 @@ On the vision front, Lincoln
 
 ## Thing of the day
 
-![goober.drake](/blog/today-in-code-team/2025/assets/jan13-drake-crap.jpg)
+![goober.drake](/blog/today-in-code-team/2025/assets/jan13-drake-crap-3.jpg)

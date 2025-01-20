@@ -14,7 +14,7 @@ Drake, Sean, and Ethan started tuning the PID loops for the velocity motors on t
 
 The image shows a line chart we used to help tune the PID loops for the rotation motors on the test chassis.
 
-![PID rotation tuning line chart](/blog/today-in-code-team/2025/assets/jan17-rotation-tuning.png)
+![PID rotation tuning line chart](/blog/today-in-code-team/2025/assets/jan17-rotation-tuning.jpg)
 
 Drake input an incorrect value and it caused the wheels to have a robot equivalent of a seizure.
 
