@@ -4,7 +4,7 @@ date = '2025-01-27T00:00:00Z'
 authors = ['lincoln']
 tags = ['frc', 'code', 'vision', 'drive']
 +++
-https://www.cise.ufl.edu/~jnw/CVAIIA/handbook-chap1.pdf
+
 ## Overview
 
 Drake, Sean and Mr. Cutter set up and cleaned the drive carpet and set up information for path-planned and then tested and debugged/fixed the path-planning code.
