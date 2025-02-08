@@ -34,5 +34,8 @@ person I am today." {{< /paige/quote >}}
 program and now I get to give back as a mentor. Just keep adding more Autonomous!" 
 {{< /paige/quote >}}
 
-{{< paige/quote cite="Ryan Sims" >}} "Robots :)" 
+{{< paige/quote cite="Ryan Sims, Class of 2024" >}} "Robots :)" 
 {{< /paige/quote >}}
+
+{{< paige/quote cite="Matthew Mutter, Class of 2022" >}} "I disagree with the allegations I stole
+snackies" {{< /paige/quote >}}
