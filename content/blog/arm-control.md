@@ -110,3 +110,7 @@ $$
 Here is my scratch work on paper:
 
 ![Scratch Work](../assets/arm-control/arm_iv_drawing.jpg "Scratch Work")
+
+Here is it in desmos:
+
+<iframe src="https://www.desmos.com/calculator/5bx546ft9q?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
