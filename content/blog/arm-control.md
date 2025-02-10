@@ -2,7 +2,7 @@
 title = 'Efficiently Controlling an Arm'
 description = 'Brainstorming and simulating a code control system for an arm.'
 authors = ['drake']
-tags = ['frc', 'simulation', 'bevy', 'code', 'rust' 'kinematics', 'pathing', 'rapier', 'physics']
+tags = ['frc', 'simulation', 'bevy', 'code', 'rust', 'kinematics', 'pathing', 'rapier', 'physics']
 date = '2025-02-10T00:53:04+0000'
 +++
 
