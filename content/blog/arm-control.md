@@ -60,7 +60,7 @@ To generate the grid, I used a simple brute force method. I iterated over every 
 
 ## Inverse Kinematics
 
-Inverse kinematics is simply given and end position, find the combination of angles and heights to get to that position. I wrote out a simplified version of the problem on some graph paper and I realisedd that it is easier than is seemed. My idea was given a end point in 2d space, we can use the circle formula and sinc the elevator body is vertical, we can simply substitute into the circle formula.
+Inverse kinematics is simply given and end position, find the combination of angles and heights to get to that position. I wrote out a simplified version of the problem on some graph paper and I realised that it is easier than is seemed. My idea was given a end point in 2d space, we can use the circle formula and sinc the elevator body is vertical, we can simply substitute into the circle formula.
 
 Variables:
   - `Tx` = Target X
