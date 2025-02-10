@@ -12,7 +12,7 @@ I'm back writing another blog post! I am writing this blog post due to the inter
 
 Our robot this year has an elevator and an arm with an intake at the end of the arm. The elevator and arm both have a motor and encoder, allowing the code to accurately position and control the height and angle the resulting angle of the intake using PID. The intake's rotation is locked to the elevator tower, so the intake is at a permanent 45 degree angle. The arm can rotate around over the top to get from one side of the tower to another. However, if the elevator is to low then the intake can hit the elevator tower, giving us our dilemma. How can we effectively control the height and angle of the arm over time to get to a desired position is the least amount of time?
 
-![ARM CAD](../arm-control/robot_arm_cad.png "Arm CAD")
+![ARM CAD](../assets/arm-control/robot_arm_cad.png "Arm CAD")
 
 ## First Ideas
 
@@ -22,7 +22,7 @@ When I first saw the problem, I though of a simple solution. I would keep an enu
 
 I decided to write the simulation in [Bevy](https://bevyengine.org/) as I was familiar with rust and I wanted to learn more about Bevy and its [ECS](https://en.wikipedia.org/wiki/Entity_component_system) architecture. I also chose bevy due to its [Rapier Physics Plugin](https://rapier.rs/docs/user_guides/bevy_plugin/getting_started_bevy/) which is well maintained, fast, and easy to use. I started by making a simple 2d scene with the rapier debug renderer and writing a python script to easily convert our CAD dimensions (in Inches) to bevy/rapier units (in Pixels). After I had the basics created, I started making the actual simulation. I made the elevator tower as a static object and then made the elevator cariage/pivot, arm, intake mount/pivot, and intake as dynamic rigid bodies. I made the intake pivot angle locked so it would always be at a 45 degree angle. I connected all of the pieces with Rapier joints with limits. I also set the gravity of all the objects to 0 to simulate constant force springs and counterweights. Then, I added a simple control script to apply a force to the intake to move twards the mouse position. After a few hours of work, I had a working simulation that looked like this:
 
-![Initial Simulation](../arm-control/initial_simulation.gif "Initial Simulation")
+![Initial Simulation](../assets/arm-control/initial_simulation.gif "Initial Simulation")
 
 I still had no idea how to control the position of the arm, but I had a good base to work off of. I put it on github and created some github actions to test and build it on every push. I decided to sleep on it and come back to it later.
 
@@ -54,4 +54,4 @@ This solution is simple in theory, but gets more complex when you look at the de
 
 To generate the grid, I used a simple brute force method. I iterated over every point in the grid and checked if it was valid or not. Because I already made the simulation, I made the simulation code into 2 parts, Main and Grid Generator. In Grid Generator mode, I would spawn in the elevator tower and iterate the intake to all possible positions and keep track if it collided or not. Here is the grid generator working:
 
-![Grid Generator](../arm-control/grid_generator.gif "Grid Generator")
+![Grid Generator](../assets/arm-control/grid_generator.gif "Grid Generator")
