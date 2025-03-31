@@ -19,7 +19,7 @@ in Anderson.
 - [Robot Code](//github.com/4533-phoenix/frc-2025-robot)
 - [Vision](//github.com/chalkydri/chalkydri)
 - [Interface](//github.com/4533-phoenix/FRC-2025-Interface)
-- [Engineering Notebook (Needs update)](//docs.google.com/presentation/d/1k68ZtbEqFZL2DokGarpRuTBsSXEmUB7j5P-1TP0bfpc/view)
+- [Engineering Notebook](//docs.google.com/presentation/d/1S9-BkZvV-qE0_MtkB9sYIFMKiQb-eqAMHzrOuboZwo8/view)
 
 ## Media
 
