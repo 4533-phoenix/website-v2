@@ -17,6 +17,7 @@ Second Alliance.
 
 - [Robot Code](//github.com/4533-phoenix/charged-up-robot)
 - [Scouting App Code](//github.com/4533-phoenix/4533-Scouting-V2)
+- [Engineering Notebook](//docs.google.com/presentation/d/1ezephcip6JJszEjbvJSTWeYZbLW10Nq01fw6B1SZ8X4/view)
 
 ## Media
 
