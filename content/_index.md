@@ -28,7 +28,7 @@ hide_page = true
 +++
 
 {{% paige/image src="splash.jpg" alt="Landscape" breakpoints=true
-class="object-fit-cover rounded-4" fetchpriority="high" height="20rem"
+class="object-fit-cover rounded-4" fetchpriority="high" height="30rem"
 loading="eager" process="webp" width="100%" %}}
 
 <hr/>
