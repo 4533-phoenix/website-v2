@@ -13,6 +13,13 @@ style = """
 hide_page = true
 +++
 
+## Directory
+
+- See a list of our seasons [here](./seasons).
+- See our hall of fame [here](./hall).
+- See a list of quotes from alumni and mentors [here](./quotes).
+- You can find our github organization [here](//github.com/4533-phoenix).
+
 ## Who are we?
 
 Phoenix is an FRC team operating out of the East Cooper Center for Advanced
@@ -39,12 +46,6 @@ experimenting with new designs and participating in at-home challenges.
 Following our move to the East Cooper CAS ahead of the 2022-23 school year, our
 team rebranded as Phoenix. We are beyond excited to continue to grow our team's
 legacy in the coming years!
-
-## Extra Information
-
-- See a list of our seasons [here](./seasons).
-- See a list of quotes from alumni and mentors [here](./quotes).
-- You can find our github organization [here](//github.com/4533-phoenix).
 
 ## Subteams
 
