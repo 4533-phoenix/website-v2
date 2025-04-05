@@ -39,3 +39,11 @@ program and now I get to give back as a mentor. Just keep adding more Autonomous
 
 {{< paige/quote cite="Matthew Mutter, Class of 2022" >}} "I disagree with the allegations I stole
 snackies" {{< /paige/quote >}}
+
+{{< paige/quote cite="Luke Torykian, Class of 2025" >}} "Unc still got it" {{< /paige/quote >}}
+
+{{< paige/quote cite="Connor Dougherty, Class of 2025" >}} "Climb to the top" {{< /paige/quote >}}
+
+{{< paige/quote cite="Aiden Norman, Class of 2025" >}} "I'm on bottom so you can be on top (actual quote TBD)" {{< /paige/quote >}}
+
+{{< paige/quote cite="Charlie Minister, Class of 2025" >}} "I was here, frfrong" {{< /paige/quote >}}
