@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'FRC Team 4533'
 enablerobotstxt = true
 timezone = "America/New_York"
-copyright = "© Phoenix 2025"
+copyright = "© Phoenix 2026"
 
 [[module.imports]]
 path = 'github.com/willfaught/paige'
