@@ -1,20 +1,30 @@
-    @font-face {
-        font-family: 'Origin Tech';
-        src: url('/fonts/origin-tech/origin-tech.woff2') format('woff2'),
-            url('/fonts/origin-tech/origin-tech.woff') format('woff'),
-            url('/fonts/origin-tech/origin-tech.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
-        font-display: swap;
-    }
+@font-face {
+    font-family: 'Origin Tech';
+    src: url('/fonts/origin-tech/origin-tech.woff2') format('woff2'),
+        url('/fonts/origin-tech/origin-tech.woff') format('woff'),
+        url('/fonts/origin-tech/origin-tech.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
 
+.mb-2 {
+    font-family: 'Origin Tech', sans-serif;
+    text-transform: uppercase;
+    font-size: 10em;
+    letter-spacing: 0.05em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    color: #a8cce2;
+    margin-top: 1em;
+    inline-size: 100%;
+}
+
+@media (max-width: 1076px) {
     .mb-2 {
-        font-family: 'Origin Tech', sans-serif;
-        text-transform: uppercase;
-        font-size: 10rem;
-        letter-spacing: 0.05em;
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
-        color: #a8cce2;
+        font-size: 15vw;
     }
+}
 
-    
+img.mb-2 {
+    display: none;
+}

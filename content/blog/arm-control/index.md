@@ -6,6 +6,8 @@ tags = ['frc', 'simulation', 'bevy', 'code', 'rust', 'kinematics', 'pathing', 'r
 date = '2025-02-10T00:53:04+0000'
 +++
 
+{{< katex >}}
+
 I'm back writing another blog post! I am writing this blog post due to the interesting challenge our robot design has presented us in the code (Thanks build team). This blog post will be a bit different as I will be writing about my thought process and how I came to the conclusion of the code I wrote.
 
 ## The Problem
@@ -73,8 +75,8 @@ Equations:
   - $$ X = 0 $$
 
 Solving for `Y` (arm Height):
+
 $$
-\[
 \begin{aligned}
 (X - Tx)^2 + (Y - Ty)^2 &= Al^2 \newline
 (0 - Tx)^2 + (Y - Ty)^2 &= Al^2 \newline
@@ -82,7 +84,6 @@ Tx^2 + (Y - Ty)^2 &= Al^2 \newline
 (Y - Ty)^2 &= Al^2 - Tx^2 \newline
 Y &= Ty - \sqrt{Al^2 - Tx^2}
 \end{aligned}
-\]
 $$
 
 After we have the height, we can check if the points or on the elevator or not. If one or more points are on the elevator, we can prefer the height that is closest to the current height. However, we have to take in consideration the trip along the top. Either way, we will end up with Y aka the height of the arm. To get the angle, we can use the following equation:
@@ -98,13 +99,12 @@ Equations:
   - $$ Dy = Ty - Y $$
 
 Solving for `Aa` (Arm Angle):
+
 $$
-\[
 \begin{aligned}
 \theta = \arctan(\frac{Dy}{Dx}) \newline
 Aa = \theta - 90
 \end{aligned}
-\]
 $$
 
 Here is my scratch work on paper:

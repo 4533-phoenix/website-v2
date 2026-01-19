@@ -34,7 +34,7 @@ costs, as well as helping to support our travel and competition expenses.
 Sponsors are featured on several team materials, including our robot,
 merchandise, and competition pit. We welcome and appreciate support of all
 kinds, including monetary donations and in-kind support. All donations to our
-organization are tax-deductible. [Sponsor Us](./contact)
+organization are tax-deductible.
 
 {{< gallery >}}
   <img src="img/sponsors/blackbaud.png" class="grid-w33" />

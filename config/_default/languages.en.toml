@@ -21,5 +21,6 @@ title = "Phoenix"
     { instagram = "https://www.instagram.com/4533_phoenix/" }, 
     { facebook = "https://www.facebook.com/Frc4533/" }, 
     { youtube = "https://www.youtube.com/@AltPhoenix4533" }, 
-    { website = "https://phoenix4533.org" }
+    { website = "https://phoenix4533.org" },
+    { email = "mailto:frc.4533.phoenix@gmail.com" }
   ]
