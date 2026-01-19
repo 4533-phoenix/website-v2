@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Phoenix"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/phoenix-logo.png"
+  description = "A powerful, lightweight theme for Hugo."
+
+[params.author]
+  name = "Phoenix"
+  image = "img/phoenix-logo.png"
+  headline = "FRC Team 4533"
+  bio = "Rising Up since 2013."
+  links = [
+    { github = "https://github.com/4533-phoenix" }, 
+    { instagram = "https://www.instagram.com/4533_phoenix/" }, 
+    { facebook = "https://www.facebook.com/Frc4533/" }, 
+    { youtube = "https://www.youtube.com/@AltPhoenix4533" }, 
+    { website = "https://phoenix4533.org" }
+  ]
