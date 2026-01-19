@@ -1,5 +1,5 @@
-module github.com/4533-phoenix/phoenix-website
+module github.com/4533-phoenix/website-v2
 
-go 1.20
+go 1.25.6
 
-require github.com/willfaught/paige v0.92.0 // indirect
+require github.com/nunocoracao/blowfish/v2 v2.97.0 // indirect

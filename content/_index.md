@@ -1,37 +1,7 @@
 +++
 title = "Phoenix"
 description = "FRC Team 4533 - Mount Pleasant, SC"
-[paige]
-style = """
-#paige-toc,
-#paige-collections,
-#paige-sections,
-#paige-pages {
-    display: none;
-}
-#paige-page-title {
-    font-family: 'Origin Tech';
-    font-size: 5rem;
-    text-transform: uppercase;
-    color: #a8cce2;
-}
-#paige-page-description {
-    font-size: 16pt;
-    font-weight: normal;
-    margin-top: -10pt;
-    margin-bottom: 2rem;
-}
-"""
-
-[paige.search]
-hide_page = true
 +++
-
-{{% paige/image src="splash.jpg" alt="Landscape" breakpoints=true
-class="object-fit-cover rounded-4" fetchpriority="high" height="25rem"
-loading="eager" process="webp" width="100%" %}}
-
-<hr/>
 
 ## Our Team
 
@@ -64,7 +34,20 @@ costs, as well as helping to support our travel and competition expenses.
 Sponsors are featured on several team materials, including our robot,
 merchandise, and competition pit. We welcome and appreciate support of all
 kinds, including monetary donations and in-kind support. All donations to our
-organization are tax-deductible. [Sponsor Us](./contact)
+organization are tax-deductible.
 
-{{< paige/gallery class="rounded-3" images="sponsors/*" process="webp" type="grid"  >}}
-{{< /paige/gallery >}}
+{{< gallery >}}
+  <img src="img/sponsors/blackbaud.png" class="grid-w33" />
+  <img src="img/sponsors/boeing.png" class="grid-w33" />
+  <img src="img/sponsors/bosch.png" class="grid-w33" />
+  <img src="img/sponsors/ccsd.png" class="grid-w33" />
+  <img src="img/sponsors/cr&c.png" class="grid-w33" />
+  <img src="img/sponsors/d&d.png" class="grid-w33" />
+  <img src="img/sponsors/dirigo.png" class="grid-w33" />
+  <img src="img/sponsors/dodstem.png" class="grid-w33" />
+  <img src="img/sponsors/eccas.png" class="grid-w33" />
+  <img src="img/sponsors/indexic.png" class="grid-w33" />
+  <img src="img/sponsors/mcguire.png" class="grid-w33" />
+  <img src="img/sponsors/niwc.png" class="grid-w33" />
+  <img src="img/sponsors/vanguard.png" class="grid-w33" />
+{{< /gallery >}}
