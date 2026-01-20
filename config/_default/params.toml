@@ -26,7 +26,7 @@ disableTextInHeader = false
 
 defaultBackgroundImage = "/img/background.svg"
 defaultFeaturedImage = "/img/featured.svg"
-defaultSocialImage = "/img/blowfish_banner.png"
+defaultSocialImage = "/img/phoenix-logo.png"
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
 
