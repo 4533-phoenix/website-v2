@@ -22,4 +22,7 @@ in Anderson.
 {{< gallery >}}
   <img src="0.jpg" class="grid-w33" />
   <img src="1.jpg" class="grid-w33" />
+  <img src="2.jpg" class="grid-w33" />
+  <img src="3.jpg" class="grid-w33" />
+  <img src="4.jpg" class="grid-w33" />
 {{< /gallery >}}
