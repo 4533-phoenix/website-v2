@@ -1,6 +1,6 @@
 +++
 description = "4533 Phoenix's Fossil"
-title = "(2026) Rebult"
+title = "(2026) Rebuilt"
 +++
 
 ## Overview
