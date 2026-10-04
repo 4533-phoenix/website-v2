@@ -34,7 +34,8 @@ costs, as well as helping to support our travel and competition expenses.
 Sponsors are featured on several team materials, including our robot,
 merchandise, and competition pit. We welcome and appreciate support of all
 kinds, including monetary donations and in-kind support. All donations to our
-organization are tax-deductible.
+organization are tax-deductible. Lowcountry Robotics Association if the non-profit arm of 
+Phoenix. Visit our [Donate](./donate) page to learn how to contribute.
 
 {{< gallery >}}
   <img src="img/sponsors/blackbaud.png" class="grid-w33" />
