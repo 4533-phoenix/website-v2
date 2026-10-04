@@ -1,6 +1,5 @@
 +++
 title = "Donate"
-type = page
 +++
 
 
