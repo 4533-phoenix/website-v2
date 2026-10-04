@@ -24,3 +24,8 @@
   name = "Seasons"
   pageRef = "seasons"
   weight = 30
+
+[[main]]
+  name = "Donate"
+  pageRef = "donate"
+  weight = 30
