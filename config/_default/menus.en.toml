@@ -28,4 +28,4 @@
 [[main]]
   name = "Donate"
   pageRef = "donate"
-  weight = 30
+  weight = 40
