@@ -25,7 +25,13 @@ We aim to empower students through hands-on engineering, programming, and leader
 
 ## 📬 How to Donate
 
-Donate via Zelle to:  frc.4533.phoenix@gmail.com
+Donate via Zelle using our email address:  frc.4533.phoenix@gmail.com  
+    or try this Zelle QR Code from inside your banking App: 
+
+![LRA QR code image](img/lra-zelle-2026.png)
+
+
+(You must use your banking app with the QR code above, not just camera mode)
 
 or email us to find other ways to donate, we'd love to hear from you.
 
